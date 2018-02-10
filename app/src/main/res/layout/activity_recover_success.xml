@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_blue"
+    android:gravity="center"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="24dp">
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/animation_view"
+        app:lottie_fileName="check_success.json"
+        app:lottie_loop="false"
+        app:lottie_autoPlay="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/all_done"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="@color/color_1"
+        android:textAllCaps="true"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/mes_23"
+        android:textColor="@color/color_1"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_done"
+        android:layout_marginTop="24dp"
+        android:text="@string/use_wallet"/>
+</LinearLayout>

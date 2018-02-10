@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TOMOWallet.iml" filepath="$PROJECT_DIR$/TOMOWallet.iml" />
+      <module fileurl="file://C:\Users\nienb\Documents\CODE\CITYME\TOMOwallet\TOMOwallet.iml" filepath="C:\Users\nienb\Documents\CODE\CITYME\TOMOwallet\TOMOwallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\nienb\Documents\CODE\CITYME\TOMOwallet\app\app.iml" filepath="C:\Users\nienb\Documents\CODE\CITYME\TOMOwallet\app\app.iml" />
+    </modules>
+  </component>
+</project>
